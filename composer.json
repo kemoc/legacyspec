@@ -1,0 +1,12 @@
+{
+  "autoload": {
+    "psr-4": {"": "src"}
+  },
+  "config": {
+    "bin-dir": "bin"
+  },
+  "require": {
+    "doctrine/dbal": "^2.5",
+    "phpspec/phpspec": "^3.2"
+  }
+}
